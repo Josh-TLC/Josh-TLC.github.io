@@ -61,7 +61,8 @@ var q = [
 	'What metric will you measure to track your growth?',
 	'Why are you convinced cafes will pay you?',
 	'What are you going to get out of Y Combinator?',
-	'What will you do in 6 months time if no one is using the app?'
+	'What will you do in 6 months time if no one is using the app?',
+	'How are you going to keep users coming back?'
 
 
 ]
