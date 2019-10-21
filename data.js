@@ -59,7 +59,8 @@ var q = [
 
 	'How will you retain users: once someone has made a few friends they will no longer need to use the app?',
 	'What metric will you measure to track your growth?',
-	'Why are you convinced cafes will pay you?'
+	'Why are you convinced cafes will pay you?',
+	'What are you going to get out of Y Combinator?'
 
 
 ]
