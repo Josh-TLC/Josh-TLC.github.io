@@ -50,7 +50,7 @@ var q = [
 	'What makes new users try you?',
 	'How do you get users?',
 
-	'What resistance will users have to trying you and how will you overcome it?',
+	'What resistance will users have to trying it out and how will you overcome it?',
 	'What problems and hurdles are you anticipating? How will you overcome them?',
 	'Six months from now, what is going to be your biggest problem?',
 	'Why university students first?',
@@ -62,7 +62,7 @@ var q = [
 	'Why are you convinced cafes will pay you?',
 	'What are you going to get out of Y Combinator?',
 	'What will you do in 6 months time if no one is using the app?',
-	'How are you going to keep users coming back?'
+	'How are you going to keep users?'
 
 
 ]
