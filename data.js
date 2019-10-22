@@ -62,7 +62,8 @@ var q = [
 	'Why are you convinced cafes will pay you?',
 	'What are you going to get out of Y Combinator?',
 	'What will you do in 6 months time if no one is using the app?',
-	'How are you going to keep users?'
+	'How are you going to keep users?',
+	'What if people keep not going to linkups?'
 
 
 ]
