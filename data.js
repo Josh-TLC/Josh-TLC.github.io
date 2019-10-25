@@ -61,7 +61,7 @@ var q = [
 'Why would lonely people be bothered to use this if they aren’t bothered to find friends in other ways?'
 
 
-]
+];
 
 	
 
